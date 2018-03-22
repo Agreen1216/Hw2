@@ -1,0 +1,15 @@
+﻿body
+{ background-color:red;
+}
+.box
+{
+    display:inline-block;
+    margin:55px;
+    width: 500px;
+    background-color: lightblue
+}
+
+#title {
+    text-align: center;
+}
+
